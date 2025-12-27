@@ -43,6 +43,6 @@ The dataset represents survey responses collected to understand ice cream consum
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Power BI Dashboard](ice_creamPreferenceBy_Age/Power_BI_Dashboard.png)
 
 ---
